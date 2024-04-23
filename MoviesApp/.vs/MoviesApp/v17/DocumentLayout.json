@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68361DA4-BFEA-4CAB-8895-7355E977E2C9}|MoviesApp.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\moviesapp\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68361DA4-BFEA-4CAB-8895-7355E977E2C9}|MoviesApp.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68361DA4-BFEA-4CAB-8895-7355E977E2C9}|MoviesApp.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\moviesapp\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68361DA4-BFEA-4CAB-8895-7355E977E2C9}|MoviesApp.csproj|solutionrelative:viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68361DA4-BFEA-4CAB-8895-7355E977E2C9}|MoviesApp.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\moviesapp\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68361DA4-BFEA-4CAB-8895-7355E977E2C9}|MoviesApp.csproj|solutionrelative:services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68361DA4-BFEA-4CAB-8895-7355E977E2C9}|MoviesApp.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\moviesapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68361DA4-BFEA-4CAB-8895-7355E977E2C9}|MoviesApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68361DA4-BFEA-4CAB-8895-7355E977E2C9}|MoviesApp.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\moviesapp\\services\\directorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68361DA4-BFEA-4CAB-8895-7355E977E2C9}|MoviesApp.csproj|solutionrelative:services\\directorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C03B86-961D-4BD5-9F81-FA7E03BA94CB}|..\\MoviesApp.Domain\\MoviesApp.Domain.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\moviesapp.domain\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68361DA4-BFEA-4CAB-8895-7355E977E2C9}|MoviesApp.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\moviesapp\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68361DA4-BFEA-4CAB-8895-7355E977E2C9}|MoviesApp.csproj|solutionrelative:services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C03B86-961D-4BD5-9F81-FA7E03BA94CB}|..\\MoviesApp.Domain\\MoviesApp.Domain.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\moviesapp.domain\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C03B86-961D-4BD5-9F81-FA7E03BA94CB}|..\\MoviesApp.Domain\\MoviesApp.Domain.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\moviesapp.domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C03B86-961D-4BD5-9F81-FA7E03BA94CB}|..\\MoviesApp.Domain\\MoviesApp.Domain.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\moviesapp.domain\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwC0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:38:03.313Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:37:08.758Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp\\View\\MainWindow.xaml",
+              "RelativeToolTip": "View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T06:37:35.974Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "Services\\GenreService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp\\Services\\GenreService.cs",
+              "RelativeToolTip": "Services\\GenreService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:45:00.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DirectorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp\\Services\\DirectorService.cs",
+              "RelativeDocumentMoniker": "Services\\DirectorService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp\\Services\\DirectorService.cs",
+              "RelativeToolTip": "Services\\DirectorService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:43:31.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp.Domain\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "..\\MoviesApp.Domain\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp.Domain\\Models\\Movie.cs",
+              "RelativeToolTip": "..\\MoviesApp.Domain\\Models\\Movie.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:07:13.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp.Domain\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "..\\MoviesApp.Domain\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp.Domain\\Models\\Genre.cs",
+              "RelativeToolTip": "..\\MoviesApp.Domain\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:07:07.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp.Domain\\Models\\Director.cs",
+              "RelativeDocumentMoniker": "..\\MoviesApp.Domain\\Models\\Director.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp.Domain\\Models\\Director.cs",
+              "RelativeToolTip": "..\\MoviesApp.Domain\\Models\\Director.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:07:00.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp\\Services\\MovieService.cs",
+              "RelativeToolTip": "Services\\MovieService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:06:03.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp.Domain\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\MoviesApp.Domain\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\MoviesApp.Domain\\AppDbContext.cs",
+              "RelativeToolTip": "..\\MoviesApp.Domain\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:05:29.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

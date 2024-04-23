@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{414423DA-1174-4775-9811-85309B2F98A3}|ProjectsApp.Domain\\ProjectsApp.Domain.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\projectsapp\\projectsapp.domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414423DA-1174-4775-9811-85309B2F98A3}|ProjectsApp.Domain\\ProjectsApp.Domain.csproj|solutionrelative:projectsapp.domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00731EEF-F8C1-4B94-8A04-0555BB9AC3BD}|ProjectsApp.WPF\\ProjectsApp.WPF.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\projectsapp\\projectsapp.wpf\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00731EEF-F8C1-4B94-8A04-0555BB9AC3BD}|ProjectsApp.WPF\\ProjectsApp.WPF.csproj|solutionrelative:projectsapp.wpf\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00731EEF-F8C1-4B94-8A04-0555BB9AC3BD}|ProjectsApp.WPF\\ProjectsApp.WPF.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\projectsapp\\projectsapp.wpf\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00731EEF-F8C1-4B94-8A04-0555BB9AC3BD}|ProjectsApp.WPF\\ProjectsApp.WPF.csproj|solutionrelative:projectsapp.wpf\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414423DA-1174-4775-9811-85309B2F98A3}|ProjectsApp.Domain\\ProjectsApp.Domain.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\projectsapp\\projectsapp.domain\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414423DA-1174-4775-9811-85309B2F98A3}|ProjectsApp.Domain\\ProjectsApp.Domain.csproj|solutionrelative:projectsapp.domain\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414423DA-1174-4775-9811-85309B2F98A3}|ProjectsApp.Domain\\ProjectsApp.Domain.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\projectsapp\\projectsapp.domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414423DA-1174-4775-9811-85309B2F98A3}|ProjectsApp.Domain\\ProjectsApp.Domain.csproj|solutionrelative:projectsapp.domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414423DA-1174-4775-9811-85309B2F98A3}|ProjectsApp.Domain\\ProjectsApp.Domain.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\projectsapp\\projectsapp.domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414423DA-1174-4775-9811-85309B2F98A3}|ProjectsApp.Domain\\ProjectsApp.Domain.csproj|solutionrelative:projectsapp.domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00731EEF-F8C1-4B94-8A04-0555BB9AC3BD}|ProjectsApp.WPF\\ProjectsApp.WPF.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\projectsapp\\projectsapp.wpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00731EEF-F8C1-4B94-8A04-0555BB9AC3BD}|ProjectsApp.WPF\\ProjectsApp.WPF.csproj|solutionrelative:projectsapp.wpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00731EEF-F8C1-4B94-8A04-0555BB9AC3BD}|ProjectsApp.WPF\\ProjectsApp.WPF.csproj|c:\\users\\user\\desktop\\llw-wifi-vorbereitung\\projectsapp\\projectsapp.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00731EEF-F8C1-4B94-8A04-0555BB9AC3BD}|ProjectsApp.WPF\\ProjectsApp.WPF.csproj|solutionrelative:projectsapp.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.WPF\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ProjectsApp.WPF\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.WPF\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "ProjectsApp.WPF\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowBsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:07:46.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.WPF\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProjectsApp.WPF\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.WPF\\View\\MainWindow.xaml",
+              "RelativeToolTip": "ProjectsApp.WPF\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T07:07:24.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectsApp.WPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.WPF\\App.xaml.cs",
+              "RelativeToolTip": "ProjectsApp.WPF\\App.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:02:09.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.WPF\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "ProjectsApp.WPF\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.WPF\\Services\\ProjectService.cs",
+              "RelativeToolTip": "ProjectsApp.WPF\\Services\\ProjectService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwDQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:01:34.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.Domain\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ProjectsApp.Domain\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.Domain\\Models\\Department.cs",
+              "RelativeToolTip": "ProjectsApp.Domain\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:59:10.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.Domain\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ProjectsApp.Domain\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.Domain\\Models\\Employee.cs",
+              "RelativeToolTip": "ProjectsApp.Domain\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:58:25.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.Domain\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ProjectsApp.Domain\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.Domain\\Models\\Project.cs",
+              "RelativeToolTip": "ProjectsApp.Domain\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:35:37.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.Domain\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectsApp.Domain\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LLW-WIFI-Vorbereitung\\ProjectsApp\\ProjectsApp.Domain\\AppDbContext.cs",
+              "RelativeToolTip": "ProjectsApp.Domain\\AppDbContext.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADwvz8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:32:01.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
